@@ -14,7 +14,7 @@
 
 # About Me
 ## My Interests
-- I love spending time with my family and traveling. In my free time, I enjoy exercising, playing pickle ball, disc golf, and cricket.
+- I love spending time with my family and traveling. In my free time, I enjoy exercising, playing pickle ball, disc golf, and cricket. I also like to cook and eat good food. 
 ## Websites I recommend
-	- [Youtube] (https://www.youtube.com) Ð I find Youtube to be great not just for entertainment, but also for education. It is a great resource that has several videos on any topic that needs further explanation and clarification. 
-	- [Facebook](https://www.facebook.com)- Facebook is not only a social media platform for networking, but also works best for selling and buying items through the marketplace. 
+	- [Youtube](https://www.youtube.com) - I find Youtube to be great not just for entertainment, but also for education. It is a great resource that has several videos on any topic that needs further explanation and clarification. 
+	- [Facebook](https://www.facebook.com) - Facebook is not only a social media platform for networking, but I think it is interesting how it works best for selling and buying items through the marketplace. 
