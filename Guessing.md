@@ -9,8 +9,8 @@ A[Start] --> B[Generate random number]
     C --> D{Is the guess correct?}
     D -->|Yes| E[Player wins]
     D -->|No| F{Is the guess too high?}
-    F -->|Yes| G[Hint: Too high]
-    F -->|No| H[Hint: Too low]
+    F -->|Yes| G[Sorry, try again! Hint: Too high!]
+    F -->|No| H[Sorry, try again! Hint: Too low!]
     G --> I[Ask for new guess]
     H --> I
     I --> D
