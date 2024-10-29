@@ -4,7 +4,7 @@
 
 ```mermaid
 graph TD;
-A[Start] --> B[Generate random number]
+A[Start] --> B[Generate random number 0-20]
     B --> C[Ask player to guess]
     C --> D{Is the guess correct?}
     D -->|Yes| E[Player wins]
